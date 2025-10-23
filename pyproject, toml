@@ -1,0 +1,3 @@
+[build-system]requires =["setuptools","wheel"]build-backend ="setuptools.build meta"
+[project]name ="my-package'version ="0.1.0"authors =[{name ="yzi3170"}
+description="我的第-个Python包'
